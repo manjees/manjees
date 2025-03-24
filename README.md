@@ -1,6 +1,6 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi there! I'm a seasoned Android app developer with 6 years of experience. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> I value clean code and great user experience, and I strive to foster a collaborative and growth oriented team culture.</li></li>📱 Android development (focused on Kotlin)<br/></li>⚙️ Extensive experience with clean architecture & modularization<br/></li>🧑‍💻 Currently leading an Android development team<br/></li>🛍️ Side projects: alcohol related diary & community app, music quiz app<br/></li>🌱 Recent interests: Jetpack Compose, React Native, Flutter, and AI powered development </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> I value clean code and great user experience, and I strive to foster a collaborative and growth oriented team culture.</li></li><br/>📱 Android development (focused on Kotlin)<br/></li>⚙️ Extensive experience with clean architecture & modularization<br/></li>🧑‍💻 Currently leading an Android development team<br/></li>🛍️ Side projects: alcohol related diary & community app, music quiz app<br/></li>🌱 Recent interests: Jetpack Compose, React Native, Flutter, and AI powered development </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -20,7 +20,9 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=manjees&bg_color=180,00000000,&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjees&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
-           />![LeetCode Stats](https://leetcard.jacoblin.cool/unman) </div> 
+           /> </div> 
+        <div><img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/></div>
+        <div><img src="https://leetcard.jacoblin.cool/manjees" /></div>
     </div>
 
     
