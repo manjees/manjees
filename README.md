@@ -1,6 +1,5 @@
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi there! I'm a seasoned Android app developer with 6 years of experience. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> I value clean code and great user experience, and I strive to foster a collaborative and growth oriented team culture.</li></li><br/>📱 Android development (focused on Kotlin)<br/></li>⚙️ Extensive experience with clean architecture & modularization<br/></li>🧑‍💻 Currently leading an Android development team<br/></li>🛍️ Side projects: alcohol related diary & community app, music quiz app<br/></li>🌱 Recent interests: Jetpack Compose, React Native, Flutter, and AI powered development </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">📱 Android development (focused on Kotlin)<br/></li>⚙️ Extensive experience with clean architecture & modularization<br/></li>🧑‍💻 Currently leading an Android development team<br/></li>🛍️ Side projects: alcohol related diary & community app, music quiz app<br/></li>🌱 Recent interests: Jetpack Compose, React Native, Flutter, and AI powered development </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
