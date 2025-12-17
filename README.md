@@ -1,6 +1,4 @@
-<div style="text-align: left;"> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">📱 Android development (focused on Kotlin)<br/></li>⚙️ Extensive experience with clean architecture & modularization<br/></li>🧑‍💻 Currently leading an Android development team<br/></li>🛍️ Side projects: alcohol related diary & community app, music quiz app<br/></li>🌱 Recent interests: Jetpack Compose, React Native, Flutter, and AI powered development </div> 
-    </div>
+<div style="text-align: left;">
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
